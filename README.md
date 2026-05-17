@@ -18,27 +18,21 @@ Full-stack developer & AI engineer — I love the intersection where language mo
 
 I'm a CS student obsessed with **AI agents** — systems that reason, plan, and take action autonomously. My work spans the full stack: from crafting clean React UIs to training models to wiring up backend APIs that hold it all together.
 
-> Currently looking for **internship / full-time opportunities** where I can build intelligent systems that solve real problems.
+> Currently open to **part-time roles and freelance contracts** — building intelligent systems that solve real problems.
 
 ---
 
 ### 🛠 Tech stack
-
-**Frontend**
+ 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Backend & Data**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-**AI / ML**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=FF9900)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
@@ -50,14 +44,11 @@ I'm a CS student obsessed with **AI agents** — systems that reason, plan, and 
 
 ---
 
-### 📊 GitHub stats
-
+## 📊 GitHub stats
+ 
 <div align="center">
-
-![Jayden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lin-dev-oo&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lin-dev-oo&layout=compact&theme=github_dark&hide_border=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=lin-dev-oo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Jayden's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lin-dev-oo&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 ---

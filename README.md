@@ -47,8 +47,9 @@ I'm a CS student obsessed with **AI agents** — systems that reason, plan, and 
 ## 📊 GitHub stats
  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lin-dev-oo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Jayden's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lin-dev-oo&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+<img src="https://github-readme-stats-five-sandy-42.vercel.app/api?username=lin-dev-oo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Jayden's GitHub Stats" />
+<img src="https://github-readme-stats-five-sandy-42.vercel.app/api/top-langs/?username=lin-dev-oo&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=lin-dev-oo&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
